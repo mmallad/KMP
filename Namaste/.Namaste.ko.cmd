@@ -1,1 +1,0 @@
-cmd_/media/Backup/Projects/KM/Namaste/Namaste/Namaste.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.2.0-39-generic/scripts/module-common.lds --build-id  -o /media/Backup/Projects/KM/Namaste/Namaste/Namaste.ko /media/Backup/Projects/KM/Namaste/Namaste/Namaste.o /media/Backup/Projects/KM/Namaste/Namaste/Namaste.mod.o
